@@ -1,0 +1,10 @@
+# Compiled class files and build output
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
