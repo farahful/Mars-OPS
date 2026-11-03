@@ -1,8 +1,5 @@
 # MARS-OPS: Mars Colony Management & Emergency Simulator
 
-**Course:** Computer and Communications Programming II — Lab 5  
-**Faculty of Engineering, Alexandria University (SSP)**
-
 ---
 
 ## 1. Project Overview
